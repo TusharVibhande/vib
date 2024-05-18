@@ -12,7 +12,7 @@ int  main(){
 
 int sum(int a, int b){
 
-    int c;
+    int c
     c=a+b;
     return c;
 }
